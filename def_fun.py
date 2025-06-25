@@ -19,4 +19,4 @@ def print_car_info(car):
     
     
 for car in cars:
-    km=print_car_info(car)
+    print_car_info(car)
